@@ -1,0 +1,26 @@
+html, body {
+background-color: rgb(217, 255, 0);
+
+color: blueviolet;(88, 58, 9)
+}
+h1{
+font: size 50px; ;
+color: chartreuse;
+}
+.def {
+color: darkgrey;
+background-color: deeppink;
+border: 2px dashed black;
+}
+
+.awsomeline{
+
+    border-bottom: 5px double rgb(255, 75, 165);
+}
+
+#coolstuff{
+    background-color: darksalmon;(255, 240, 87)
+}
+b.awsomeline{
+    border: 10px double purple;
+}
